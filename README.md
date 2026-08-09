@@ -59,12 +59,6 @@
 
 ---
 
-## 推荐
-
-| Logo | 推荐项目 | 简介 |
-| :--- | :--- | :--- |
-| <a href="https://yujianwudi.top/sign-up?aff=crW7" target="_blank"><img src="https://pub-e262f5d37e5d471eae582fe3611611bc.r2.dev/%E5%A4%A9%E6%9C%BA%E9%98%81logo/retouch_2026060414313519.png" width="50"></a> | **[天机阁 AI](https://yujianwudi.top/sign-up?aff=crW7)** | 开发者与打工人的生产力利器。<br>稳定支持 `GPT`、`Claude`、`Gemini` 等全模型。国内网络极速直连，告别封号与支付烦恼。完全兼容官方接口，按量计费，一分钱都不浪费！ |
-
 ##  致敬
 
 在此，WeFlow 项目组向一月 DMCA 潮中陨落的无数先烈项目致以最崇高的敬意。你们试图帮用户找回数据主权的努力，将被镌刻在互联网的记忆里。
